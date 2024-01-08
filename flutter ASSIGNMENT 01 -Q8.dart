@@ -45,7 +45,6 @@ else{
  print("faill");
 }
 
-
   
 print("Student Name: $studentName");
 print("Roll Number: $rollNumber");

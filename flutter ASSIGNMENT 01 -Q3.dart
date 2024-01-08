@@ -8,7 +8,7 @@
 void main(){
 int classestake = 16;
 
-int classesattend = 10;
+int classesattend = 9;
 
 double totalPercentage = ( classesattend / classestake*100);
 
